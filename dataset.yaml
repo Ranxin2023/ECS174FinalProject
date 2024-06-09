@@ -1,0 +1,6 @@
+train: /content/drive/My Drive/Colab Notebooks/ECS174FP_Task1/data/train/images
+val: /content/drive/My Drive/Colab Notebooks/ECS174FP_Task1/data/valid/images
+test: /content/drive/My Drive/Colab Notebooks/ECS174FP_Task1/data/test/images
+
+nc: 1
+names: ['plate']
